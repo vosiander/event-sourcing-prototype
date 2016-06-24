@@ -1,0 +1,3 @@
+{"name": "Event.Create.Customer", "firstname": "Veit", "lastname": "Osiander", "createdAt": "2016-07-01 12:00:00"}
+{"name": "Event.Update.Lastname", "lastname": "MC Hammer"}
+{"name": "Event.Update.Address", "address": "Hochstiftsweg 27a"}
